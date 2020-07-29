@@ -1,5 +1,5 @@
 title = "forritari.dev"
-baseURL = "https://fannaroh.github.io/forritari.dev/"
+baseURL = "https://www.forritari.dev/"
 languageCode = "en-US"
 theme = "osprey-delight"
 tags = ["personal", "homepage", "portfolio"]
