@@ -15,8 +15,10 @@ publishDir = "docs"
   author = "fannar"
   email = "fannaroh@gmail.com"
   description = "osprey-delight example site"
-  tagline = "Hi there! Check out this theme."
-  logoBig = "/images/osprey-delight-logo.png"
+  tagline = "forritari.dev"
+  # [bool] Enable to display a logo on home site
+  useHomeLogo = false
+  logoBig = "osprey-delight-logo.png"
   # [str] This is the logo that will be shown in the left corner of the nav bar.
   #   Usually, you would like to use something bigger than a favicon - but not too big either.
   #   Make sure that the image does not overlay the nav links. Don't be afraid of experimenting! 
@@ -33,22 +35,22 @@ publishDir = "docs"
   copyright = true
   # [bool] Your credit is much appreciated. It will be displayed in a small way in your footer.
   #   Anyways, of course you're free to uncomment the following line to disable the credit.
-  # credit = false
+  credit = false
 
 ## Social media links in footer:
 [Params.Social]
   # [str] Link to your Twitter.
-  twitter = ""
+  #twitter = ""
   # [str] Link to your LinkedIn.
-  linkedin = ""
+  linkedin = "https://www.linkedin.com/in/fannaroh"
   # [str] Link to your GitHub.
-  github = "https://github.com/kdevo/osprey-delight"
+  github = "https://github.com/fannaroh"
   # [str] Link to your Facebook.
-  facebook = ""
+  #facebook = ""
   # [str] Link to your Instagram.
   # instagram = ""
   # [str] Link to your StackOverflow.
-  stackoverflow = ""
+  #stackoverflow = ""
 
 
 ## Theme features:
