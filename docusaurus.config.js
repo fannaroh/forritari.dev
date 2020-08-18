@@ -43,7 +43,7 @@ module.exports = {
     },
     footer: {
       style: 'dark',
-      copyright: `Copyright © ${new Date().getFullYear()} Facebook, Inc.`, // You can also put own HTML here
+      copyright: `Copyright © ${new Date().getFullYear()} Fannar Örn Hermannsson.`, // You can also put own HTML here
     },
   },
   presets: [
