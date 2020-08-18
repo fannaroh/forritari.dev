@@ -47,7 +47,7 @@ export default {
     },
     "footer": {
       "style": "dark",
-      "copyright": "Copyright © 2020 Facebook, Inc."
+      "copyright": "Copyright © 2020 Fannar Örn Hermannsson."
     }
   },
   "presets": [
