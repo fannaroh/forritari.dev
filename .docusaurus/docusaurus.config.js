@@ -9,8 +9,8 @@ export default {
   "projectName": "forritari.dev",
   "themeConfig": {
     "colorMode": {
-      "defaultMode": "dark",
-      "disableSwitch": true,
+      "defaultMode": "light",
+      "disableSwitch": false,
       "respectPrefersColorScheme": false,
       "switchConfig": {
         "darkIcon": "🌜",
@@ -46,8 +46,8 @@ export default {
       "hideOnScroll": false
     },
     "footer": {
-      "style": "dark",
-      "copyright": "Copyright © 2020 Fannar Örn Hermannsson."
+      "style": "light",
+      "copyright": "Copyright © 2020 Fannar Örn Hermannsson. <br> <div>Icons made by <a href=\"https://www.flaticon.com/authors/freepik\" title=\"Freepik\">Freepik</a> from <a href=\"https://www.flaticon.com/\" title=\"Flaticon\">www.flaticon.com</a></div>"
     }
   },
   "presets": [

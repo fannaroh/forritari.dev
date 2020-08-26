@@ -8,18 +8,18 @@ export default [
   exact: true,
 },
 {
+  path: '/__docusaurus/debug',
+  component: ComponentCreator('/__docusaurus/debug','fdd'),
+  exact: true,
+},
+{
   path: '/blog',
-  component: ComponentCreator('/blog','728'),
+  component: ComponentCreator('/blog','8fc'),
   exact: true,
 },
 {
   path: '/blog/hello-world',
-  component: ComponentCreator('/blog/hello-world','798'),
-  exact: true,
-},
-{
-  path: '/blog/hola',
-  component: ComponentCreator('/blog/hola','08d'),
+  component: ComponentCreator('/blog/hello-world','15f'),
   exact: true,
 },
 {
@@ -29,47 +29,22 @@ export default [
 },
 {
   path: '/blog/tags/docusaurus',
-  component: ComponentCreator('/blog/tags/docusaurus','917'),
-  exact: true,
-},
-{
-  path: '/blog/tags/facebook',
-  component: ComponentCreator('/blog/tags/facebook','c2b'),
+  component: ComponentCreator('/blog/tags/docusaurus','575'),
   exact: true,
 },
 {
   path: '/blog/tags/hello',
-  component: ComponentCreator('/blog/tags/hello','c12'),
-  exact: true,
-},
-{
-  path: '/blog/tags/hola',
-  component: ComponentCreator('/blog/tags/hola','084'),
-  exact: true,
-},
-{
-  path: '/blog/welcome',
-  component: ComponentCreator('/blog/welcome','cb0'),
+  component: ComponentCreator('/blog/tags/hello','0f7'),
   exact: true,
 },
 {
   path: '/docs',
-  component: ComponentCreator('/docs','498'),
+  component: ComponentCreator('/docs','fe6'),
   
   routes: [
 {
   path: '/docs/',
   component: ComponentCreator('/docs/','87d'),
-  exact: true,
-},
-{
-  path: '/docs/doc2',
-  component: ComponentCreator('/docs/doc2','fd3'),
-  exact: true,
-},
-{
-  path: '/docs/doc3',
-  component: ComponentCreator('/docs/doc3','e02'),
   exact: true,
 },
 {

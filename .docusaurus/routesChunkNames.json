@@ -1,102 +1,56 @@
 {
   "/-deb": {
-    "component": "c4f5d8e4",
-    "config": "5e9f5e1a"
+    "component": "component---site-src-pages-index-jsc-4-f-f99",
+    "config": "config---5-e-9-4f3"
   },
-  "/blog-728": {
-    "component": "a6aa9e1f",
+  "/__docusaurus/debug-fdd": {
+    "component": "component---theme-debugd-45-c28"
+  },
+  "/blog-8fc": {
+    "component": "component---theme-blog-list-pagea-6-a-7ba",
     "items": [
       {
-        "content": "af172acd"
-      },
-      {
-        "content": "3570154c"
-      },
-      {
-        "content": "8e9f0a8a"
+        "content": "content---bloga-29-f3a"
       }
     ],
-    "metadata": "bbb4ffb5"
+    "metadata": "metadata---blogbbb-5f9"
   },
-  "/blog/hello-world-798": {
-    "component": "ccc49370",
-    "content": "d610846f"
-  },
-  "/blog/hola-08d": {
-    "component": "ccc49370",
-    "content": "bdd709f1"
+  "/blog/hello-world-15f": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "content": "content---blog-hello-worlddea-08c"
   },
   "/blog/tags-3a8": {
-    "component": "01a85c17",
-    "tags": "8be5b89e"
+    "component": "component---theme-blog-tags-list-page-01-a-d0b",
+    "tags": "tags---blog-tags-8-be-13d"
   },
-  "/blog/tags/docusaurus-917": {
-    "component": "6875c492",
+  "/blog/tags/docusaurus-575": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
     "items": [
       {
-        "content": "af172acd"
-      },
-      {
-        "content": "3570154c"
-      },
-      {
-        "content": "8e9f0a8a"
+        "content": "content---bloga-29-f3a"
       }
     ],
-    "metadata": "6ca375e2"
+    "metadata": "metadata---blog-tags-docusaurus-6-ca-f43"
   },
-  "/blog/tags/facebook-c2b": {
-    "component": "6875c492",
+  "/blog/tags/hello-0f7": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
     "items": [
       {
-        "content": "af172acd"
+        "content": "content---bloga-29-f3a"
       }
     ],
-    "metadata": "eec15bdb"
+    "metadata": "metadata---blog-tags-hello-3-a-6-b36"
   },
-  "/blog/tags/hello-c12": {
-    "component": "6875c492",
-    "items": [
-      {
-        "content": "af172acd"
-      },
-      {
-        "content": "3570154c"
-      }
-    ],
-    "metadata": "3a6eb64e"
-  },
-  "/blog/tags/hola-084": {
-    "component": "6875c492",
-    "items": [
-      {
-        "content": "8e9f0a8a"
-      }
-    ],
-    "metadata": "31d49d87"
-  },
-  "/blog/welcome-cb0": {
-    "component": "ccc49370",
-    "content": "2868cdab"
-  },
-  "/docs-498": {
-    "component": "1be78505",
-    "docsMetadata": "20ac7829"
+  "/docs-fe6": {
+    "component": "component---theme-doc-page-1-be-9be",
+    "docsMetadata": "docsMetadata---docs-20-a-426"
   },
   "/docs/-87d": {
-    "component": "17896441",
-    "content": "b2f90839"
-  },
-  "/docs/doc2-fd3": {
-    "component": "17896441",
-    "content": "df361e2b"
-  },
-  "/docs/doc3-e02": {
-    "component": "17896441",
-    "content": "616665f6"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-b-2-f-393"
   },
   "/docs/mdx-955": {
-    "component": "17896441",
-    "content": "ce3e42ad"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-mdxce-3-7d1"
   }
 }

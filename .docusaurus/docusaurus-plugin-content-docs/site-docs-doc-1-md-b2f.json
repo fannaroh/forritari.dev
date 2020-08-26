@@ -10,7 +10,7 @@
   "sidebar_label": "Style Guide",
   "sidebar": "someSidebar",
   "next": {
-    "title": "Document Number 2",
-    "permalink": "/docs/doc2"
+    "title": "Powered by MDX",
+    "permalink": "/docs/mdx"
   }
 }
