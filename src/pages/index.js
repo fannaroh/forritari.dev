@@ -67,8 +67,6 @@ function Home() {
           <div className="text--center">
             <img className={styles.featureImage} src={logoUrl} alt={`${siteConfig.title} logo`} />
           </div>
-          <h1 className="hero__title">{siteConfig.title}</h1>
-          <p className="hero__subtitle">{siteConfig.tagline}</p>
         </div>
       </header>
       {/*<header className={clsx('hero hero--primary', styles.heroBanner)}>

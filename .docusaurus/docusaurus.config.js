@@ -1,6 +1,6 @@
 export default {
   "title": "forritari.dev",
-  "tagline": "A programmers journal",
+  "tagline": "",
   "url": "https://forritari.dev",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
@@ -9,8 +9,8 @@ export default {
   "projectName": "forritari.dev",
   "themeConfig": {
     "colorMode": {
-      "defaultMode": "light",
-      "disableSwitch": false,
+      "defaultMode": "dark",
+      "disableSwitch": true,
       "respectPrefersColorScheme": false,
       "switchConfig": {
         "darkIcon": "🌜",
@@ -20,7 +20,7 @@ export default {
       }
     },
     "navbar": {
-      "title": "forritari.dev",
+      "title": "",
       "logo": {
         "alt": "forritari.dev Logo",
         "src": "img/logo.svg"
@@ -57,11 +57,11 @@ export default {
         "docs": {
           "homePageId": "doc1",
           "sidebarPath": "/Users/fannar/github/forritari.dev/sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/"
+          "editUrl": "https://github.com/fannaroh/forritari.dev/edit/master/website/"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/"
+          "editUrl": "https://github.com/fannaroh/forritari.dev/edit/master/website/blog/"
         },
         "theme": {
           "customCss": "/Users/fannar/github/forritari.dev/src/css/custom.css"

@@ -1,6 +1,6 @@
 module.exports = {
   title: 'forritari.dev',
-  tagline: 'A programmers journal',
+  tagline: '',
   url: 'https://forritari.dev',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -10,18 +10,18 @@ module.exports = {
   themeConfig: {
     colorMode: {
       // "light" | "dark"
-      defaultMode: 'light',
+      defaultMode: 'dark',
 
       // Hides the switch in the navbar
       // Useful if you want to support a single color mode
-      disableSwitch: false,
+      disableSwitch: true,
 
       // Should we use the prefers-color-scheme media-query,
       // using user system preferences, instead of the hardcoded defaultMode
       respectPrefersColorScheme: false,
     },
     navbar: {
-      title: 'forritari.dev',
+      title: '',
       logo: {
         alt: 'forritari.dev Logo',
         src: 'img/logo.svg',
@@ -56,13 +56,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/fannaroh/forritari.dev/edit/master/website/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/fannaroh/forritari.dev/edit/master/website/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
