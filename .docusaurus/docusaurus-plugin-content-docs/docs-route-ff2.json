@@ -4,7 +4,7 @@
       {
         "collapsed": true,
         "type": "category",
-        "label": "Docusaurus",
+        "label": "Code Bro",
         "items": [
           {
             "type": "link",
@@ -16,12 +16,292 @@
       {
         "collapsed": true,
         "type": "category",
-        "label": "Features",
+        "label": "C#",
         "items": [
           {
-            "type": "link",
-            "label": "Powered by MDX",
-            "href": "/docs/mdx"
+            "collapsed": true,
+            "type": "category",
+            "label": "Overview",
+            "items": [
+              {
+                "type": "link",
+                "label": "Powered by MDX",
+                "href": "/docs/mdx"
+              }
+            ]
+          },
+          {
+            "collapsed": true,
+            "type": "category",
+            "label": "Algorithms",
+            "items": [
+              {
+                "type": "link",
+                "label": "Powered by MDX",
+                "href": "/docs/mdx"
+              }
+            ]
+          },
+          {
+            "collapsed": true,
+            "type": "category",
+            "label": "Data Structures",
+            "items": [
+              {
+                "type": "link",
+                "label": "Powered by MDX",
+                "href": "/docs/mdx"
+              }
+            ]
+          },
+          {
+            "collapsed": true,
+            "type": "category",
+            "label": "Design Patterns",
+            "items": [
+              {
+                "type": "link",
+                "label": "Powered by MDX",
+                "href": "/docs/mdx"
+              }
+            ]
+          },
+          {
+            "collapsed": true,
+            "type": "category",
+            "label": "Tools",
+            "items": [
+              {
+                "type": "link",
+                "label": "Powered by MDX",
+                "href": "/docs/mdx"
+              }
+            ]
+          },
+          {
+            "collapsed": true,
+            "type": "category",
+            "label": "Links",
+            "items": [
+              {
+                "type": "link",
+                "label": "Powered by MDX",
+                "href": "/docs/mdx"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "Agile",
+        "items": [
+          {
+            "collapsed": true,
+            "type": "category",
+            "label": "Overview",
+            "items": [
+              {
+                "type": "link",
+                "label": "Powered by MDX",
+                "href": "/docs/mdx"
+              }
+            ]
+          },
+          {
+            "collapsed": true,
+            "type": "category",
+            "label": "Tools",
+            "items": [
+              {
+                "type": "link",
+                "label": "Powered by MDX",
+                "href": "/docs/mdx"
+              }
+            ]
+          },
+          {
+            "collapsed": true,
+            "type": "category",
+            "label": "Links",
+            "items": [
+              {
+                "type": "link",
+                "label": "Powered by MDX",
+                "href": "/docs/mdx"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "Concepts",
+        "items": [
+          {
+            "collapsed": true,
+            "type": "category",
+            "label": "Interfaces",
+            "items": [
+              {
+                "type": "link",
+                "label": "Powered by MDX",
+                "href": "/docs/mdx"
+              }
+            ]
+          },
+          {
+            "collapsed": true,
+            "type": "category",
+            "label": "Conventions and Templates",
+            "items": [
+              {
+                "type": "link",
+                "label": "Powered by MDX",
+                "href": "/docs/mdx"
+              }
+            ]
+          },
+          {
+            "collapsed": true,
+            "type": "category",
+            "label": "Layering",
+            "items": [
+              {
+                "type": "link",
+                "label": "Powered by MDX",
+                "href": "/docs/mdx"
+              }
+            ]
+          },
+          {
+            "collapsed": true,
+            "type": "category",
+            "label": "Algorithmic Complexity",
+            "items": [
+              {
+                "type": "link",
+                "label": "Powered by MDX",
+                "href": "/docs/mdx"
+              }
+            ]
+          },
+          {
+            "collapsed": true,
+            "type": "category",
+            "label": "Hashing",
+            "items": [
+              {
+                "type": "link",
+                "label": "Powered by MDX",
+                "href": "/docs/mdx"
+              }
+            ]
+          },
+          {
+            "collapsed": true,
+            "type": "category",
+            "label": "Caching",
+            "items": [
+              {
+                "type": "link",
+                "label": "Powered by MDX",
+                "href": "/docs/mdx"
+              }
+            ]
+          },
+          {
+            "collapsed": true,
+            "type": "category",
+            "label": "Concurrency",
+            "items": [
+              {
+                "type": "link",
+                "label": "Powered by MDX",
+                "href": "/docs/mdx"
+              }
+            ]
+          },
+          {
+            "collapsed": true,
+            "type": "category",
+            "label": "Cloud Computing",
+            "items": [
+              {
+                "type": "link",
+                "label": "Powered by MDX",
+                "href": "/docs/mdx"
+              }
+            ]
+          },
+          {
+            "collapsed": true,
+            "type": "category",
+            "label": "Security",
+            "items": [
+              {
+                "type": "link",
+                "label": "Powered by MDX",
+                "href": "/docs/mdx"
+              }
+            ]
+          },
+          {
+            "collapsed": true,
+            "type": "category",
+            "label": "Relational Databases",
+            "items": [
+              {
+                "type": "link",
+                "label": "Powered by MDX",
+                "href": "/docs/mdx"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "Various",
+        "items": [
+          {
+            "collapsed": true,
+            "type": "category",
+            "label": "Protocols",
+            "items": [
+              {
+                "type": "link",
+                "label": "Powered by MDX",
+                "href": "/docs/mdx"
+              }
+            ]
+          },
+          {
+            "collapsed": true,
+            "type": "category",
+            "label": "Languages",
+            "items": [
+              {
+                "type": "link",
+                "label": "Powered by MDX",
+                "href": "/docs/mdx"
+              }
+            ]
+          },
+          {
+            "collapsed": true,
+            "type": "category",
+            "label": "Interfaces",
+            "items": [
+              {
+                "type": "link",
+                "label": "Powered by MDX",
+                "href": "/docs/mdx"
+              }
+            ]
           }
         ]
       }

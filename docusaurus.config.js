@@ -1,12 +1,12 @@
 module.exports = {
-  title: 'forritari.dev',
-  tagline: '',
-  url: 'https://forritari.dev',
+  title: 'codebro.xyz',
+  tagline: 'codebro.xyz',
+  url: 'https://codebro.xyz',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
   organizationName: 'fannaroh',
-  projectName: 'forritari.dev',
+  projectName: 'codebro.xyz',
   themeConfig: {
     colorMode: {
       // "light" | "dark"
@@ -21,9 +21,9 @@ module.exports = {
       respectPrefersColorScheme: false,
     },
     navbar: {
-      title: '',
+      title: 'Code Bro',
       logo: {
-        alt: 'forritari.dev Logo',
+        alt: 'codebro.xyz Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -35,7 +35,7 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/fannaroh/forritari.dev',
+          href: 'https://github.com/codebro.xyz',
           label: 'GitHub',
           position: 'right',
         },
@@ -56,13 +56,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/fannaroh/forritari.dev/edit/master/website/',
+            'https://github.com/codebro.xyz/site/edit/master/website/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/fannaroh/forritari.dev/edit/master/website/blog/',
+            'https://github.com/codebro.xyz/site/edit/master/website/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

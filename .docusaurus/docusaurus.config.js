@@ -1,12 +1,12 @@
 export default {
-  "title": "forritari.dev",
-  "tagline": "",
-  "url": "https://forritari.dev",
+  "title": "codebro.xyz",
+  "tagline": "codebro.xyz",
+  "url": "https://codebro.xyz",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "favicon": "img/favicon.ico",
   "organizationName": "fannaroh",
-  "projectName": "forritari.dev",
+  "projectName": "codebro.xyz",
   "themeConfig": {
     "colorMode": {
       "defaultMode": "dark",
@@ -20,9 +20,9 @@ export default {
       }
     },
     "navbar": {
-      "title": "",
+      "title": "Code Bro",
       "logo": {
-        "alt": "forritari.dev Logo",
+        "alt": "codebro.xyz Logo",
         "src": "img/logo.svg"
       },
       "items": [
@@ -38,7 +38,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/fannaroh/forritari.dev",
+          "href": "https://github.com/codebro.xyz",
           "label": "GitHub",
           "position": "right"
         }
@@ -57,11 +57,11 @@ export default {
         "docs": {
           "homePageId": "doc1",
           "sidebarPath": "/Users/fannar/github/forritari.dev/sidebars.js",
-          "editUrl": "https://github.com/fannaroh/forritari.dev/edit/master/website/"
+          "editUrl": "https://github.com/codebro.xyz/site/edit/master/website/"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/fannaroh/forritari.dev/edit/master/website/blog/"
+          "editUrl": "https://github.com/codebro.xyz/site/edit/master/website/blog/"
         },
         "theme": {
           "customCss": "/Users/fannar/github/forritari.dev/src/css/custom.css"
