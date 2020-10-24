@@ -43,7 +43,7 @@ module.exports = {
     },
     footer: {
       style: 'light',
-      copyright: `Copyright © ${new Date().getFullYear()} Fannar Örn Hermannsson. <br> <div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>`, // You can also put own HTML here
+      copyright: `Copyright © ${new Date().getFullYear()} Fannar Örn Hermannsson. <br> <div>Polarbear made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>`, // You can also put own HTML here
     },
   },
   presets: [
