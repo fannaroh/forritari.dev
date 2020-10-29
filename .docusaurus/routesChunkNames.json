@@ -41,16 +41,28 @@
     ],
     "metadata": "metadata---blog-tags-hello-3-a-6-b36"
   },
-  "/docs-fe6": {
+  "/docs-a2f": {
     "component": "component---theme-doc-page-1-be-9be",
     "docsMetadata": "docsMetadata---docs-20-a-426"
   },
-  "/docs/-87d": {
+  "/docs/-6d6": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-b-2-f-393"
+    "content": "content---docs-3-d-8-da8"
+  },
+  "/docs/math_problems-8e5": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-math-problemsc-73-c2f"
+  },
+  "/docs/math_problems_binary_8bit-664": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-math-problems-binary-8-bit-9-cd-a9f"
   },
   "/docs/mdx-955": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-mdxce-3-7d1"
+  },
+  "/docs/style_guide-887": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-style-guide-439-2e8"
   }
 }

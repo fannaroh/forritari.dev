@@ -55,7 +55,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "homePageId": "doc1",
+          "homePageId": "about",
           "sidebarPath": "/Users/fannar/github/forritari.dev/sidebars.js",
           "editUrl": "https://github.com/fannaroh/forritari.dev/edit/master/website/"
         },

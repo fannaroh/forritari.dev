@@ -39,17 +39,32 @@ export default [
 },
 {
   path: '/docs',
-  component: ComponentCreator('/docs','fe6'),
+  component: ComponentCreator('/docs','a2f'),
   
   routes: [
 {
   path: '/docs/',
-  component: ComponentCreator('/docs/','87d'),
+  component: ComponentCreator('/docs/','6d6'),
+  exact: true,
+},
+{
+  path: '/docs/math_problems',
+  component: ComponentCreator('/docs/math_problems','8e5'),
+  exact: true,
+},
+{
+  path: '/docs/math_problems_binary_8bit',
+  component: ComponentCreator('/docs/math_problems_binary_8bit','664'),
   exact: true,
 },
 {
   path: '/docs/mdx',
   component: ComponentCreator('/docs/mdx','955'),
+  exact: true,
+},
+{
+  path: '/docs/style_guide',
+  component: ComponentCreator('/docs/style_guide','887'),
   exact: true,
 },
 ]

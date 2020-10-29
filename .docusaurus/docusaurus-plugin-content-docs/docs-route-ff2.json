@@ -4,11 +4,11 @@
       {
         "collapsed": true,
         "type": "category",
-        "label": "Docusaurus",
+        "label": "Forritari.dev",
         "items": [
           {
             "type": "link",
-            "label": "Style Guide",
+            "label": "About",
             "href": "/docs/"
           }
         ]
@@ -16,8 +16,37 @@
       {
         "collapsed": true,
         "type": "category",
-        "label": "Features",
+        "label": "Math Problems",
         "items": [
+          {
+            "type": "link",
+            "label": "Math Problems",
+            "href": "/docs/math_problems"
+          },
+          {
+            "collapsed": true,
+            "type": "category",
+            "label": "Binary",
+            "items": [
+              {
+                "type": "link",
+                "label": "8 bit",
+                "href": "/docs/math_problems_binary_8bit"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "Examples",
+        "items": [
+          {
+            "type": "link",
+            "label": "Style Guide",
+            "href": "/docs/style_guide"
+          },
           {
             "type": "link",
             "label": "Powered by MDX",
@@ -29,7 +58,10 @@
   },
   "permalinkToSidebar": {
     "/docs/": "someSidebar",
-    "/docs/mdx": "someSidebar"
+    "/docs/math_problems": "someSidebar",
+    "/docs/math_problems_binary_8bit": "someSidebar",
+    "/docs/mdx": "someSidebar",
+    "/docs/style_guide": "someSidebar"
   },
   "version": null
 }

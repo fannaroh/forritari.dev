@@ -1,6 +1,19 @@
 module.exports = {
   someSidebar: {
-    Docusaurus: ['doc1'],
-    Features: ['mdx'],
+    'Forritari.dev': [
+      'about'
+    ],
+    'Math Problems': [
+      'math_problems',
+      {
+        'Binary' : [
+          'math_problems_binary_8bit'
+        ]
+      }
+    ],
+    'Examples': [
+      'style_guide',
+      'mdx'
+    ]
   },
 };

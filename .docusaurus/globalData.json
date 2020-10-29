@@ -7,15 +7,27 @@
         {
           "name": null,
           "path": "/docs",
-          "mainDocId": "doc1",
+          "mainDocId": "about",
           "docs": [
             {
-              "id": "doc1",
+              "id": "about",
               "path": "/docs/"
+            },
+            {
+              "id": "math_problems",
+              "path": "/docs/math_problems"
+            },
+            {
+              "id": "math_problems_binary_8bit",
+              "path": "/docs/math_problems_binary_8bit"
             },
             {
               "id": "mdx",
               "path": "/docs/mdx"
+            },
+            {
+              "id": "style_guide",
+              "path": "/docs/style_guide"
             }
           ]
         }
