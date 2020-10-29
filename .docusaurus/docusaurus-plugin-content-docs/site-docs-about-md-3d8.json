@@ -1,0 +1,14 @@
+{
+  "unversionedId": "about",
+  "id": "about",
+  "isDocsHomePage": true,
+  "title": "About",
+  "source": "@site/docs/about.md",
+  "permalink": "/docs/",
+  "editUrl": "https://github.com/fannaroh/forritari.dev/edit/master/website/docs/about.md",
+  "sidebar": "someSidebar",
+  "next": {
+    "title": "Math Problems",
+    "permalink": "/docs/math_problems"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "unversionedId": "math_problems_binary_8bit",
+  "id": "math_problems_binary_8bit",
+  "isDocsHomePage": false,
+  "title": "8 bit",
+  "source": "@site/docs/math_problems_binary_8bit.md",
+  "permalink": "/docs/math_problems_binary_8bit",
+  "editUrl": "https://github.com/fannaroh/forritari.dev/edit/master/website/docs/math_problems_binary_8bit.md",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Math Problems",
+    "permalink": "/docs/math_problems"
+  },
+  "next": {
+    "title": "Style Guide",
+    "permalink": "/docs/style_guide"
+  }
+}

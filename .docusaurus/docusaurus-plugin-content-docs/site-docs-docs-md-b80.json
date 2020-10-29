@@ -1,0 +1,14 @@
+{
+  "unversionedId": "docs",
+  "id": "docs",
+  "isDocsHomePage": true,
+  "title": "docs",
+  "source": "@site/docs/docs.md",
+  "permalink": "/docs/",
+  "editUrl": "https://github.com/fannaroh/forritari.dev/edit/master/website/docs/docs.md",
+  "sidebar": "someSidebar",
+  "next": {
+    "title": "Style Guide",
+    "permalink": "/docs/style_guide"
+  }
+}

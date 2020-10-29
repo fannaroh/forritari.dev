@@ -1,0 +1,16 @@
+{
+  "unversionedId": "style_guide",
+  "id": "style_guide",
+  "isDocsHomePage": false,
+  "title": "Style Guide",
+  "description": "You can write content using GitHub-flavored Markdown syntax.",
+  "source": "@site/docs/style_guide copy.md",
+  "permalink": "/docs/style_guide",
+  "editUrl": "https://github.com/fannaroh/forritari.dev/edit/master/website/docs/style_guide copy.md",
+  "sidebar_label": "Style Guide",
+  "sidebar": "someSidebar",
+  "next": {
+    "title": "Powered by MDX",
+    "permalink": "/docs/mdx"
+  }
+}

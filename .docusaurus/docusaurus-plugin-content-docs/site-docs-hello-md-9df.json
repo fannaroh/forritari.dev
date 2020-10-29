@@ -1,0 +1,11 @@
+{
+  "unversionedId": "hello",
+  "id": "hello",
+  "isDocsHomePage": true,
+  "title": "Hello",
+  "description": "img",
+  "source": "@site/docs/hello.md",
+  "permalink": "/docs/",
+  "editUrl": "https://github.com/fannaroh/forritari.dev/edit/master/website/docs/hello.md",
+  "sidebar_label": "Hello"
+}

@@ -1,0 +1,16 @@
+{
+  "unversionedId": "welcome",
+  "id": "welcome",
+  "isDocsHomePage": false,
+  "title": "Welcome :)",
+  "description": "img",
+  "source": "@site/docs/welcome.md",
+  "permalink": "/docs/welcome",
+  "editUrl": "https://github.com/fannaroh/forritari.dev/edit/master/website/docs/welcome.md",
+  "sidebar_label": "Welcome :)",
+  "sidebar": "someSidebar",
+  "next": {
+    "title": "Style Guide",
+    "permalink": "/docs/style_guide"
+  }
+}
